@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -35,4 +34,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.textbox{
+  border-top-width: 10px;
+}
+
+.btn.btn-danger{
+  position: relative;
+  top: 9px;
+  left: -2px;
+}
+
+.btn.btn-info{
+  position: relative;
+  left: 25px;
+}
+
+.btn{
+  position: relative;
+  left: 10px;
+}
+
+.update_button{
+  position: relative;
+  left: 30px
 }
